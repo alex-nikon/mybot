@@ -1,4 +1,4 @@
-# Создаем лог
+# Создаем лог 
 import logging
 
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
